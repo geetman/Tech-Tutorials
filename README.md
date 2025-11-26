@@ -1,5 +1,4 @@
 # Tech-Tutorials
-
 ## Hubs
 [W3schools](https://www.w3schools.com) - The OG of Knowlege Hubs
 
@@ -13,7 +12,13 @@
 
 [Mmdn](https://developer.mozilla.org/en-US/curriculum) - Mozilla Developer Curriculum
 
-[Awsome Self Hosted](https://awesome-selfhosted.net) or [Git Version](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file) - AwsomeSelfHosted General Compilation
+[Awsome SelfHosted](https://awesome-selfhosted.net) or [Git Version](https://github.com/awesome-selfhosted/awesome-selfhosted?tab=readme-ov-file) - AwsomeSelfHosted General Compilation
+
+[Awsome Creative Coding](https://www.codecademy.com) - AwsomeCreativeCoding General Compilation
+
+[Awsome](https://project-awesome.org) - Awsome Compilation Compilation
+
+[CodeAcademy](https://project-awesome.org/terkelg/awesome-creative-coding) - Build skills that stand out
 
 ## Help
 
@@ -26,15 +31,31 @@
 
 [LeetCode](https://leetcode.com/problemset) - Its LeetCode!!!
 
+---
+
+# Languages
 ## Programming Languages 
 Used to build software, apps, games and general purpose systems.
 ### Python
+
 ### Javascript
 [Modern Javascript](https://javascript.info) - The Modern JavaScript Tutorial
+
 ### Java
+
 ### C
+
 ### C++
+[CPP Reference](https://en.cppreference.com/w) - The Modern JavaScript Tutorial
+
 ### Ruby
+
+## Visual Languages
+Proggramming with 2D icons instead of lines of code.
+### Node Red
+[Node Red Reference](https://nodered.org/docs) - The Definitive Guide
+
+### Scratch
 
 ## Development and Version Control Tools
 Used to manage code changes, track history, collaborate, containerize, and maintain development workflows.
@@ -61,13 +82,80 @@ Used for scientific computing, math heavy tasks and rule based reasoning.
 
 ## Domain Specific Languages
 Used for highly specialized tasks within narrow technical areas.
+### RegEx (Regular Expressions)
+[RegexOne](https://regexone.com) - Learn Regular Expressions with simple, interactive exercises
 
 ## Automation, Build, & Configuration Languages
 Used to build software, manage pipelines and configure systems.
 
-## AI and Model Definition Languages
-Used to describe, define and train machine learning models.
+## AI and Model Definition Languages 
+Used to describe, define and train machine learning models
 
-## APIs
+---
+
+# APIs
 Used by programs to communicate with systems, hardware and online services.
 
+## Graphics and Rendering APIs
+### OpenGL - Cross platform graphics rendering API (Older)
+[Learn Open GL](https://learnopengl.com) - Online book for learning OpenGL
+
+### Vulkan - Cross platform graphics rendering API (Modern)
+[VK Guide](https://vkguide.dev) - A new work-in-progress Vulkan guide
+
+[Vulkan Tutorial](https://vulkan-tutorial.com) - Basics of using the Vulkan graphics and compute API
+
+## GPU Compute APIs
+
+## System Level APIs
+
+## Audio APIs
+
+## Networking & Cloud APIs
+
+## Input Device APIs
+
+## Web APIs
+
+## Mobile Platform APIs
+
+## AI API
+
+---
+
+# Libraries
+
+## Python
+
+## Javascript
+
+## Typescript
+
+## C & C++
+[Box2D](https://box2d.org/documentation) - Box2D is a 2D rigid body simulation library for games
+
+## Rust
+
+---
+
+# Developer Portals
+
+[Nvidia](https://developer.nvidia.com) - RTX, CUDA, AI, etc.
+
+[Google](https://developers.google.com) - Cloud, Android, AI, etc.
+
+[Microsoft](https://developer.microsoft.com/en-us) - Coding, Operating, AI, etc.
+
+[IBM](https://developer.ibm.com) - Quantum Computing, Cloud, AI, etc.
+
+---
+
+# Misc
+
+## Ways of CS
+[Data-Oriented Design](https://www.dataorienteddesign.com/dodbooks) - Online release of Data-Oriented Design
+
+## Tutorial Websites (Paid)
+[Fireship](https://fireship.io/courses) - Blazingly fast && Highly-amusing
+
+[Boot.Dev](https://www.boot.dev) - Learn backend development the smart way
