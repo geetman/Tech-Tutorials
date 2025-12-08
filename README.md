@@ -26,10 +26,14 @@
 
 [Stack Exchange](https://stackexchange.com) - Saviour #2
 
+[Roadmap.sh](https://roadmap.sh) - Map out Learning
+
 ## Competitive
 [Code Wars](https://www.codewars.com/dashboard) - Practice Coding
 
 [LeetCode](https://leetcode.com/problemset) - Its LeetCode!!!
+
+[Frontend Mentor](https://www.frontendmentor.io/home) - Webdev Chalenges & projects
 
 ---
 
@@ -40,6 +44,12 @@ Used to build software, apps, games and general purpose systems.
 
 ### Javascript
 [Modern Javascript](https://javascript.info) - The Modern JavaScript Tutorial
+
+[Eloquent JavaScript](https://eloquentjavascript.net) - Book about JavaScript, programming, and the wonders of the digital
+
+[Javascript30](https://javascript30.com) - 30 Day Vanilla JS Coding Challenge
+
+[NodeSchool](https://nodeschool.io) - Open source lesson modules associated with NodeSchool
 
 ### Java
 
@@ -64,6 +74,14 @@ Used to manage code changes, track history, collaborate, containerize, and maint
 
 ## Markup, Markdown & Styling Languages
 Used to structure documents, format text and design visual layouts.
+### CSS
+[CSS Tricks](https://css-tricks.com/guides/) - A Website About Making Websites
+
+[SQL Bolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises
+
+[CSS Pro-tips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
+
+[Grid by Example](https://gridbyexample.com) - Everything you need to learn CSS Grid Layout
 
 ## Query & Data Representation Languages
 Used to request information from databases and store structured data.
@@ -90,6 +108,21 @@ Used to build software, manage pipelines and configure systems.
 
 ## AI and Model Definition Languages 
 Used to describe, define and train machine learning models
+
+---
+
+# Fields Of Of Interest
+
+## Web Development
+### Bare Bones
+[Interneting Is Hard](https://webdesign.solomon.ng) - Interneting Is Hard (But it doesn’t have to be)
+
+[Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - Develop & Style Websites
+
+[HTML.com](https://html.com) - HTML For Beginners The Easy Way
+
+### PHP
+[SQL Bolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises
 
 ---
 
@@ -152,7 +185,7 @@ Used by programs to communicate with systems, hardware and online services.
 
 # Misc
 
-## Ways of CS
+## Ways of CS (General)
 [Data-Oriented Design](https://www.dataorienteddesign.com/dodbooks) - Online release of Data-Oriented Design
 
 ## Tutorial Websites (Paid)
