@@ -26,6 +26,14 @@
 
 [MongoDB](https://www.mongodb.com) - Student Hub by MongoDB
 
+[Codez Up](https://codezup.com) - Code the Way Up
+
+[Programiz](https://www.programiz.com) - Learn programming for free
+
+[Sololearn](https://www.sololearn.com/en/learn) - General Programming
+
+[Coding Bat](https://codingbat.com/java) - Lear Java & Python
+
 ## Help
 [Stack Overflow](https://stackoverflow.com/questions) - Saviour #1
 
@@ -68,7 +76,7 @@ Used to build software, apps, games and general purpose systems.
 ### C
 
 ### C++
-[CPP Reference](https://en.cppreference.com/w) - The Modern JavaScript Tutorial
+[CPP Reference](https://en.cppreference.com/w) - C++ reference
 
 ### Ruby
 
@@ -118,9 +126,6 @@ Used for highly specialized tasks within narrow technical areas.
 ## Automation, Build, & Configuration Languages
 Used to build software, manage pipelines and configure systems.
 
-## AI and Model Definition Languages 
-Used to describe, define and train machine learning models
-
 ---
 
 # Fields Of Of Interest
@@ -142,18 +147,25 @@ Used to describe, define and train machine learning models
 ### AI Specific
 [Fast.ai](https://www.fast.ai) - Making neural nets uncool again
 
-[Fast.ai](https://www.fast.ai) - Making neural nets uncool again
+[DeepLearning.AI](https://www.deeplearning.ai/courses/) - Grow your AI career with foundational specializations
 
 ### Data Science Specific
 [Kaggle](https://www.kaggle.com/learn) - Gain the skills you need to do independent data science projects
 
----
+## Computer Graphics
+### General
+[GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Old Graphics Computing by Nvidia
 
-# APIs
-Used by programs to communicate with systems, hardware and online services.
+[PBR](https://www.pbr-book.org/3ed-2018/contents) - Physically Based Rendering: 2018
 
-## Graphics and Rendering APIs
-### OpenGL - Cross platform graphics rendering API (Older)
+[Shader Academy](https://shaderacademy.com/explore) - Learn computer graphics by solving challenges
+
+[Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) - Demystifies the algorithms used in modern graphics with basic programming & math
+
+### Ray Tracing
+[Understandable RayTracing](https://github.com/ssloy/tinyraytracer/wiki/Part-1:-understandable-raytracing) - Understandable RayTracing in 256 lines of bare C++
+
+### OpenGL - Cross platform graphics rendering API (Legacy)
 [Learn Open GL](https://learnopengl.com) - Online book for learning OpenGL
 
 ### Vulkan - Cross platform graphics rendering API (Modern)
@@ -161,8 +173,21 @@ Used by programs to communicate with systems, hardware and online services.
 
 [Vulkan Tutorial](https://vulkan-tutorial.com) - Basics of using the Vulkan graphics and compute API
 
-## GPU Compute APIs
+### GPU Compute
 
+## Game-Engine Development
+### General
+
+### Mathematics
+[Game Math](https://gamemath.com/book/index.html) - 3D math, the geometry and algebra of 3D space
+
+### Make-Your-Own-Engine
+[Dragonfly](https://dragonfly.wpi.edu/book/) - Program a Game Engine from Scratch
+
+---
+
+# APIs
+Used by programs to communicate with systems, hardware and online services.
 ## System Level APIs
 
 ## Audio APIs
@@ -176,6 +201,21 @@ Used by programs to communicate with systems, hardware and online services.
 ## Mobile Platform APIs
 
 ## AI API
+
+---
+
+# Make Your Own " X "
+## Programming Language
+
+## Operating System
+### Unix Based
+[Write a shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c/) - Write a shell in C
+
+---
+
+# Operating Systems
+## Linux
+[Linux from Scratch](https://www.linuxfromscratch.org) - LFS
 
 ---
 
@@ -196,7 +236,7 @@ Used by programs to communicate with systems, hardware and online services.
 
 # Developer Portals
 
-[Nvidia](https://developer.nvidia.com) - RTX, CUDA, AI, etc.
+[Nvidia](https://developer.nvidia.com) & [Tutorials](https://developer.nvidia.com/embedded/learn/tutorials) - RTX, CUDA, AI, etc.
 
 [Google](https://developers.google.com) - Cloud, Android, AI, etc.
 
