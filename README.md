@@ -20,8 +20,13 @@
 
 [CodeAcademy](https://project-awesome.org/terkelg/awesome-creative-coding) - Build skills that stand out
 
-## Help
+[Digital Ocean](https://www.digitalocean.com/community/tutorials) - Follow along with one of our 8,000+ development and sysadmin tutorials
 
+[Datacamp](https://app.datacamp.com/learn/skill-tracks) - Acquire new skills fast in courses that combine short expert videos with immediate hands-on exercises
+
+[MongoDB](https://www.mongodb.com) - Student Hub by MongoDB
+
+## Help
 [Stack Overflow](https://stackoverflow.com/questions) - Saviour #1
 
 [Stack Exchange](https://stackexchange.com) - Saviour #2
@@ -41,6 +46,13 @@
 ## Programming Languages 
 Used to build software, apps, games and general purpose systems.
 ### Python
+[Jupyter](https://docs.jupyter.org/en/latest/#project-jupyter-documentation) - Project Jupyter Documentation
+
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc) - Automate the Boring Stuff with Python
+
+[Real Python](https://realpython.com/search?kind=article&kind=course&order=newest) - Become a Python Expert
+
+[Python Docs](https://www.python.org/doc/) - Python's documentation
 
 ### Javascript
 [Modern Javascript](https://javascript.info) - The Modern JavaScript Tutorial
@@ -122,7 +134,18 @@ Used to describe, define and train machine learning models
 [HTML.com](https://html.com) - HTML For Beginners The Easy Way
 
 ### PHP
-[SQL Bolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises
+[PHP The Right Way](https://phptherightway.com) - PHP The Right Way
+
+[PHP.net](https://www.php.net/docs.php) - PHP Documentation
+
+## Data Science & AI
+### AI Specific
+[Fast.ai](https://www.fast.ai) - Making neural nets uncool again
+
+[Fast.ai](https://www.fast.ai) - Making neural nets uncool again
+
+### Data Science Specific
+[Kaggle](https://www.kaggle.com/learn) - Gain the skills you need to do independent data science projects
 
 ---
 
