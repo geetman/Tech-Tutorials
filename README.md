@@ -48,6 +48,9 @@
 
 [Frontend Mentor](https://www.frontendmentor.io/home) - Webdev Chalenges & projects
 
+## News
+[dail.dev](https://app.daily.dev) - News and Updates
+
 ---
 
 # Languages
@@ -62,6 +65,8 @@ Used to build software, apps, games and general purpose systems.
 
 [Python Docs](https://www.python.org/doc/) - Python's documentation
 
+
+
 ### Javascript
 [Modern Javascript](https://javascript.info) - The Modern JavaScript Tutorial
 
@@ -72,6 +77,10 @@ Used to build software, apps, games and general purpose systems.
 [NodeSchool](https://nodeschool.io) - Open source lesson modules associated with NodeSchool
 
 ### Java
+
+### Kotlin
+
+### Rust
 
 ### C
 
@@ -97,8 +106,6 @@ Used to structure documents, format text and design visual layouts.
 ### CSS
 [CSS Tricks](https://css-tricks.com/guides/) - A Website About Making Websites
 
-[SQL Bolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises
-
 [CSS Pro-tips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 
 [Grid by Example](https://gridbyexample.com) - Everything you need to learn CSS Grid Layout
@@ -108,15 +115,23 @@ Used to request information from databases and store structured data.
 ### SQL
 [SQL Bolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises
 
-## Hardware and Low Level Languages
+## Hardware Languages
 Used to control hardware, design circuits and work close to the machine.
+### Arduino
 
 ## Shell and Command Languages
 Used to automate and control the operating system through commands.
 ### Shell
 
+### Bash
+
 ## Mathematical, Statistical, & Logic Languages
 Used for scientific computing, math heavy tasks and rule based reasoning.
+### Julia
+
+### R
+
+### Matplot
 
 ## Domain Specific Languages
 Used for highly specialized tasks within narrow technical areas.
@@ -128,8 +143,22 @@ Used to build software, manage pipelines and configure systems.
 
 ---
 
-# Fields Of Of Interest
+# Libraries
 
+## Python
+
+## Javascript
+
+## Typescript
+
+## C & C++
+[Box2D](https://box2d.org/documentation) - Box2D is a 2D rigid body simulation library for games
+
+## Rust
+
+---
+
+# Fields Of Of Interest
 ## Web Development
 ### Bare Bones
 [Interneting Is Hard](https://webdesign.solomon.ng) - Interneting Is Hard (But it doesn’t have to be)
@@ -137,6 +166,8 @@ Used to build software, manage pipelines and configure systems.
 [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) - Develop & Style Websites
 
 [HTML.com](https://html.com) - HTML For Beginners The Easy Way
+
+### Web APIs
 
 ### PHP
 [PHP The Right Way](https://phptherightway.com) - PHP The Right Way
@@ -184,6 +215,11 @@ Used to build software, manage pipelines and configure systems.
 ### Make-Your-Own-Engine
 [Dragonfly](https://dragonfly.wpi.edu/book/) - Program a Game Engine from Scratch
 
+## Networking & Cloud
+### Networking Systems
+
+### APIs
+
 ---
 
 # APIs
@@ -192,11 +228,7 @@ Used by programs to communicate with systems, hardware and online services.
 
 ## Audio APIs
 
-## Networking & Cloud APIs
-
 ## Input Device APIs
-
-## Web APIs
 
 ## Mobile Platform APIs
 
@@ -217,25 +249,23 @@ Used by programs to communicate with systems, hardware and online services.
 ## Linux
 [Linux from Scratch](https://www.linuxfromscratch.org) - LFS
 
----
+## WIndows
 
-# Libraries
+## Unix
 
-## Python
+## MacOS & IOS
 
-## Javascript
+## BSD
 
-## Typescript
+## Android
 
-## C & C++
-[Box2D](https://box2d.org/documentation) - Box2D is a 2D rigid body simulation library for games
+## DOS
 
-## Rust
+## Server OSs
 
 ---
 
 # Developer Portals
-
 [Nvidia](https://developer.nvidia.com) & [Tutorials](https://developer.nvidia.com/embedded/learn/tutorials) - RTX, CUDA, AI, etc.
 
 [Google](https://developers.google.com) - Cloud, Android, AI, etc.
