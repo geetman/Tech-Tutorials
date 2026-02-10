@@ -65,8 +65,6 @@ Used to build software, apps, games and general purpose systems.
 
 [Python Docs](https://www.python.org/doc/) - Python's documentation
 
-
-
 ### Javascript
 [Modern Javascript](https://javascript.info) - The Modern JavaScript Tutorial
 
@@ -206,6 +204,18 @@ Used to build software, manage pipelines and configure systems.
 
 ### GPU Compute
 
+## Game Development
+### Forums
+#### Unreal Engine
+[Epic Games Community](https://dev.epicgames.com/community/) - Epic Games Community
+
+#### RPG MZ
+[RPG Maker Forums](https://forums.rpgmakerweb.com/index.php) - RPG Maker Forums
+
+### Tutorial Sites
+#### Unreal Engine 5
+[UNF Games](https://www.unfgames.com) - Master Game creation in Unreal Engine 5
+
 ## Game-Engine Development
 ### General
 
@@ -224,6 +234,9 @@ Used to build software, manage pipelines and configure systems.
 
 # APIs
 Used by programs to communicate with systems, hardware and online services.
+## API Hubs
+[Rapid](https://rapidapi.com/hub) - API Hub from Nokia
+
 ## System Level APIs
 
 ## Audio APIs
