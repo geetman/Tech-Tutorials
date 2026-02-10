@@ -206,6 +206,9 @@ Used to build software, manage pipelines and configure systems.
 ### GPU Compute
 
 ## Game Development
+### Blogs
+[GameFromScratch](https://gamefromscratch.com/) - Game Development News, Tutorials and More
+
 ### Forums
 #### Unreal Engine
 [Epic Games Community](https://dev.epicgames.com/community/) - Epic Games Community
