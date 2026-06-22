@@ -35,6 +35,8 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 
 [Coding Bat](https://codingbat.com/java) - Lear Java & Python
 
+[TutorialsPoint](https://www.tutorialspoint.com/index.html) - CS theory lessons
+
 ## Help
 [Stack Overflow](https://stackoverflow.com/questions) - Saviour #1
 
@@ -176,13 +178,7 @@ Used to build software, manage pipelines and configure systems.
 [PHP.net](https://www.php.net/docs.php) - PHP Documentation
 
 ## Data Science & AI
-### AI Specific
-[Fast.ai](https://www.fast.ai) - Making neural nets uncool again
-
-[DeepLearning.AI](https://www.deeplearning.ai/courses/) - Grow your AI career with foundational specializations
-
-### Data Science Specific
-[Kaggle](https://www.kaggle.com/learn) - Gain the skills you need to do independent data science projects
+[Artificial Learning Repository](https://github.com/geetman/Artificial-Intelligence-Hub/)
 
 ## Computer Graphics
 ### General
@@ -304,3 +300,5 @@ Used by programs to communicate with systems, hardware and online services.
 [Fireship](https://fireship.io/courses) - Blazingly fast && Highly-amusing
 
 [Boot.Dev](https://www.boot.dev) - Learn backend development the smart way
+
+[Udacity](https://www.udacity.com/catalog) - AI, CS, and Business Management
