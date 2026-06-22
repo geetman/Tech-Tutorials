@@ -42,6 +42,8 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 
 [Roadmap.sh](https://roadmap.sh) - Map out Learning
 
+[StackShare](https://stackshare.io) - Discover the best developer & AI tools powering products you love
+
 ## Competitive
 [Code Wars](https://www.codewars.com/dashboard) - Practice Coding
 
