@@ -7,7 +7,7 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 
 [The Odin Project](https://www.theodinproject.com/paths) - FullStack Curriculum (Beginner -> Intermediate)
 
-[freeCodeCamp](https://www.freecodecamp.org/learn) - freeCodeCamp's curriculum
+[freeCodeCamp](https://www.freecodecamp.org/learn) - freeCodeCamp's curriculum + Certificates
 
 [GeeksforGeeks](https://www.geeksforgeeks.org) - GEEKOUT!
 
@@ -45,6 +45,19 @@ Brought to you by The Nanometer Horizon Open Knowledge Program from Nanometer Ho
 [Roadmap.sh](https://roadmap.sh) - Map out Learning
 
 [StackShare](https://stackshare.io) - Discover the best developer & AI tools powering products you love
+
+## Certification Focus
+[Google Career Certificates](https://grow.google/certificates/) - Official Google-issued certificates in IT support, data analytics, UX design, and cybersecurity, widely recognised by employers globally.
+
+[IBM SkillsBuild](https://skillsbuild.org) - Free IBM-issued certificates in AI, cybersecurity, data science, and cloud computing, underrated but legitimately credible.
+
+[Microsoft Learn Certifications](https://learn.microsoft.com/en-us/credentials/) - Official Microsoft certifications across Azure, Power Platform, and Microsoft 365, the prep is free but exams are paid.
+
+[Cisco Skills for All](https://skillsforall.com) - Free Cisco-backed entry-level certifications in networking, cybersecurity, and IoT directly from the company that sets the industry standard.
+
+[AWS Certifications](https://aws.amazon.com/certification/) - The most in-demand cloud certifications globally, prep is free through AWS Training but exams are paid.
+
+[CompTIA](https://www.comptia.org/certifications) - Industry standard entry-level IT certifications like A+, Security+, and Network+, paid but the benchmark for IT careers.
 
 ## Competitive
 [Code Wars](https://www.codewars.com/dashboard) - Practice Coding
