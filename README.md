@@ -302,3 +302,7 @@ Used by programs to communicate with systems, hardware and online services.
 [Boot.Dev](https://www.boot.dev) - Learn backend development the smart way
 
 [Udacity](https://www.udacity.com/catalog) - AI, CS, and Business Management
+
+[PluralSight](https://www.pluralsight.com/browse) - Thousands of courses authored by our network of industry experts
+
+[ZeroToMastery](https://zerotomastery.io/courses/?category=all) - Level up your career with the most up-to-date tech courses online
